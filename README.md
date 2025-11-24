@@ -1,4 +1,4 @@
-# Text_to_ASCII
+# Plain text to ASCII Microservice
 Microservice that converts plain text to ASCII (currently only supports font='slant')
 
 To run:
